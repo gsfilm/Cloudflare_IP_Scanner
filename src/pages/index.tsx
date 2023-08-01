@@ -49,7 +49,7 @@ const Home: NextPage = () => {
   return (
     <>
       <Head>
-        <title>Cloudflare Scanner</title>
+        <title>Cloudflare 在线优选 IP 系统</title>
         <meta
           name="description"
           content="Cloudflare Scanner to find clean ip"
