@@ -224,13 +224,13 @@ const Home: NextPage = () => {
             rel="noopener noreferrer"
           >
             关于我们{" "}
-            /*<Image
+            <Image
               src="/github.svg"
               width={16}
               height={16}
               alt="Github Logo"
               className="ml-2 h-4 w-4"
-            />*/
+            />
           </a>
         </footer>
       </main>
