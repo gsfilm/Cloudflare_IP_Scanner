@@ -217,21 +217,21 @@ const Home: NextPage = () => {
           </section>
         </div>
         <footer className="flex h-24 w-full items-center justify-center">
-          /*<a
+          <a
             className="flex items-center justify-center rounded bg-slate-100 p-3"
             href="https://cf.igmsy.xyz"
             target="_blank"
             rel="noopener noreferrer"
           >
             关于我们{" "}
-            <Image
+            /*<Image
               src="/github.svg"
               width={16}
               height={16}
               alt="Github Logo"
               className="ml-2 h-4 w-4"
-            />
-          </a>*/
+            />*/
+          </a>
         </footer>
       </main>
     </>
