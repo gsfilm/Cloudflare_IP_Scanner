@@ -149,7 +149,7 @@ const Home: NextPage = () => {
           </section>
           <section className="my-4 grid grid-cols-1 gap-5 md:grid-cols-3">
             <div className="text-center text-red-500">
-              提示：在开始之前务必先关闭你的VPN！
+              提示：开始前务必先关闭你的VPN！
             </div>
             <div className="text-center font-bold">测试: {testNo}</div>
             <div
